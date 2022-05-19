@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "welcome git !"
+echo "welcome git !!!!!"
